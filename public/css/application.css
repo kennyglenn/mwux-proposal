@@ -6574,6 +6574,9 @@ p a,
 h5 a {
   color: #c47267;
 }
+.container {
+  overflow-x: hidden;
+}
 .navbar {
   background: #f9f9f9;
   border-bottom: 5px solid #ff535f;
@@ -6584,7 +6587,7 @@ h5 a {
   font-weight: 700;
 }
 .navbar .navbar-brand {
-  width: 300px;
+  width: 200px;
 }
 @media (min-width: 991px) {
   .navbar .navbar-brand {
@@ -6604,17 +6607,19 @@ h5 a {
 }
 #intro {
   background: url('/public/images/hero-cincy.jpg') center center no-repeat;
+  padding-top: 2em;
 }
 @media (min-width: 991px) {
   #intro {
     height: 90vh;
     max-height: 1000px;
+    padding: 0;
   }
-}
-#intro .container {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  #intro .container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
 }
 #process {
   background-color: #ff535f;
