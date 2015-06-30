@@ -1,0 +1,8 @@
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Less NameError: variable @white is undefined in \\Users\\kenny\\src\\gaslight\\mwux\\public\\less\\sections.less on line 2, column 15: \A 1 .navbar { \A 2   background: @white; \A 3   border-bottom: 3px solid @brand-primary; \A  \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 

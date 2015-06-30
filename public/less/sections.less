@@ -1,0 +1,76 @@
+#intro {
+  background: url('/public/images/hero-cincy.jpg') center center no-repeat;
+  height: 90vh;
+  .container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+#process {
+  background-color: @brand-warning;
+}
+
+#timeline {
+  .row {
+    position: relative;
+    &:after {
+      background-color: @brand-primary;
+      content: '';
+      display: block;
+      width: 10px;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 140px
+    }
+    .col-md-3 {
+      background-color: @white;
+      z-index: 1;
+    }
+  }
+  small {
+    display: block;
+  }
+  .panel {
+    padding: 1em 3em 3em;
+    h4 {
+      margin-top: 1.5em;
+    }
+  }
+}
+
+#committee {
+  background-color: @brand-warning;
+  .round {
+    width: 150px;
+    margin-left: -95px;
+  }
+}
+
+#venue {
+  border-top: 16px double @brand-warning;
+  h4 {
+    margin-top: 1.5em;
+  }
+}
+
+#hotels {
+  border-top: 16px double @brand-primary;
+}
+
+#budget {
+  border-top: 16px double @brand-warning;
+}
+
+#around {
+  border-top: 16px double @brand-primary;
+}
+
+#contact {
+  background: url('/public/images/contact-cincy.jpg') center center no-repeat;
+  background-size: 100%;
+  height: 550px;
+  padding-top: 100px
+}
