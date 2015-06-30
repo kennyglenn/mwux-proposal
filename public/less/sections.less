@@ -18,9 +18,7 @@
     position: relative;
     &:after {
       display: none;
-    }
-    @media (min-width: @screen-sm-max) {
-      &:after {
+      @media (min-width: @screen-sm-max) {
         background-color: @brand-primary;
         content: '';
         display: block;
@@ -34,10 +32,10 @@
     .col-md-3 {
       background-color: @white;
       z-index: 1;
+      small {
+        display: block;
+      }
     }
-  }
-  small {
-    display: block;
   }
   .panel {
     padding: 1em 3em 3em;
@@ -49,9 +47,24 @@
 
 #committee {
   background-color: @brand-warning;
+  .media-left {
+    display: block;
+    @media (min-width: @screen-sm-max) {
+      display: table-cell;
+    }
+  }
   .round {
-    width: 150px;
-    margin-left: -95px;
+    width: 80px;
+    @media (min-width: @screen-sm-max) {
+      width: 150px;
+      margin-left: -95px;
+    }
+  }
+}
+
+#cincinnati {
+  h4 {
+    margin-top: 1.5em;
   }
 }
 
@@ -59,6 +72,9 @@
   border-top: 16px double @brand-warning;
   h4 {
     margin-top: 1.5em;
+  }
+  h5 {
+    margin-top: 1em;
   }
 }
 

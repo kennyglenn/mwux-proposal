@@ -6559,12 +6559,20 @@ button.close {
 .round {
   border-radius: 50%;
 }
+.panel {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
 .panel.panel-primary {
   background-color: #412945;
   color: #f9f9f9;
 }
 .panel.panel-primary a {
   color: #ff535f;
+}
+p a,
+h5 a {
+  color: #c47267;
 }
 .navbar {
   background: #f9f9f9;
@@ -6620,7 +6628,7 @@ button.close {
   background-color: #f9f9f9;
   z-index: 1;
 }
-#timeline small {
+#timeline .row .col-md-3 small {
   display: block;
 }
 #timeline .panel {
@@ -6632,15 +6640,34 @@ button.close {
 #committee {
   background-color: #ff535f;
 }
+#committee .media-left {
+  display: block;
+}
+@media (min-width: 991px) {
+  #committee .media-left {
+    display: table-cell;
+  }
+}
 #committee .round {
-  width: 150px;
-  margin-left: -95px;
+  width: 80px;
+}
+@media (min-width: 991px) {
+  #committee .round {
+    width: 150px;
+    margin-left: -95px;
+  }
+}
+#cincinnati h4 {
+  margin-top: 1.5em;
 }
 #venue {
   border-top: 16px double #ff535f;
 }
 #venue h4 {
   margin-top: 1.5em;
+}
+#venue h5 {
+  margin-top: 1em;
 }
 #hotels {
   border-top: 16px double #412945;
