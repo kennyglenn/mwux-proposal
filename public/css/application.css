@@ -6584,7 +6584,13 @@ h5 a {
   font-weight: 700;
 }
 .navbar .navbar-brand {
-  margin-bottom: 0.7em;
+  width: 300px;
+}
+@media (min-width: 991px) {
+  .navbar .navbar-brand {
+    margin-bottom: 0.7em;
+    width: auto;
+  }
 }
 .navbar .navbar-brand img {
   width: 50%;
@@ -6593,10 +6599,17 @@ h5 a {
 .navbar .navbar-nav {
   margin-top: .5em;
 }
+.navbar .navbar-toggle .icon-bar {
+  background-color: #ff535f;
+}
 #intro {
   background: url('/public/images/hero-cincy.jpg') center center no-repeat;
-  height: 90vh;
-  max-height: 1000px;
+}
+@media (min-width: 991px) {
+  #intro {
+    height: 90vh;
+    max-height: 1000px;
+  }
 }
 #intro .container {
   position: relative;

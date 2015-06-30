@@ -27,7 +27,11 @@ p a, h5 a {
     font-weight: 700;
   }
   .navbar-brand  {
-    margin-bottom: 0.7em;
+    width: 300px;
+    @media (min-width: @screen-sm-max) {
+      margin-bottom: 0.7em;
+      width: auto;
+    }
     img {
       width: 50%;
       height: auto;
@@ -35,5 +39,8 @@ p a, h5 a {
   }
   .navbar-nav {
     margin-top: .5em;
+  }
+  .navbar-toggle .icon-bar {
+    background-color: @brand-warning;
   }
 }
