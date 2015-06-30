@@ -6588,6 +6588,7 @@ button.close {
 #intro {
   background: url('/public/images/hero-cincy.jpg') center center no-repeat;
   height: 90vh;
+  max-height: 1000px;
 }
 #intro .container {
   position: relative;
@@ -6601,14 +6602,19 @@ button.close {
   position: relative;
 }
 #timeline .row:after {
-  background-color: #412945;
-  content: '';
-  display: block;
-  width: 10px;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 140px;
+  display: none;
+}
+@media (min-width: 991px) {
+  #timeline .row:after {
+    background-color: #412945;
+    content: '';
+    display: block;
+    width: 10px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 140px;
+  }
 }
 #timeline .row .col-md-3 {
   background-color: #f9f9f9;

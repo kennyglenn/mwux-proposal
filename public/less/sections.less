@@ -1,6 +1,7 @@
 #intro {
   background: url('/public/images/hero-cincy.jpg') center center no-repeat;
   height: 90vh;
+  max-height: 1000px;
   .container {
     position: relative;
     top: 50%;
@@ -16,14 +17,19 @@
   .row {
     position: relative;
     &:after {
-      background-color: @brand-primary;
-      content: '';
-      display: block;
-      width: 10px;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 140px
+      display: none;
+    }
+    @media (min-width: @screen-sm-max) {
+      &:after {
+        background-color: @brand-primary;
+        content: '';
+        display: block;
+        width: 10px;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 140px
+      }
     }
     .col-md-3 {
       background-color: @white;
