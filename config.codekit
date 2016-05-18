@@ -2714,17 +2714,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/images\/becky-sroufe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 238136,
-		"inputAbbreviatedPath": "\/public\/images\/becky-sroufe.png",
-		"outputAbbreviatedPath": "\/public\/images\/becky-sroufe.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/public\/images\/contact-cincy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2747,17 +2736,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/images\/dave-knox.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 25613,
-		"inputAbbreviatedPath": "\/public\/images\/dave-knox.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/dave-knox.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/public\/images\/hero-cincy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2769,17 +2747,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/images\/janelle-hopper.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16826,
-		"inputAbbreviatedPath": "\/public\/images\/janelle-hopper.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/janelle-hopper.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/public\/images\/kenny-glenn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2787,28 +2754,6 @@
 		"initialSize": 44315,
 		"inputAbbreviatedPath": "\/public\/images\/kenny-glenn.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/kenny-glenn.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/images\/matthew-lewis.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9198,
-		"inputAbbreviatedPath": "\/public\/images\/matthew-lewis.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/matthew-lewis.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/images\/michelle-taute.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44547,
-		"inputAbbreviatedPath": "\/public\/images\/michelle-taute.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/michelle-taute.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2853,17 +2798,6 @@
 		"initialSize": 51927,
 		"inputAbbreviatedPath": "\/public\/images\/sam-borstadt.jpeg",
 		"outputAbbreviatedPath": "\/public\/images\/sam-borstadt.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/images\/tammy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27388,
-		"inputAbbreviatedPath": "\/public\/images\/tammy.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/tammy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
