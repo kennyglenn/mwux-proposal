@@ -6629,7 +6629,13 @@ h5 a {
   }
 }
 #process {
-  background-color: #FF535F;
+  background-color: #412945;
+}
+#process h1 {
+  color: #FF535F;
+}
+#process p {
+  color: #fff;
 }
 #timeline .row {
   position: relative;
