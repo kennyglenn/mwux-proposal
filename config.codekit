@@ -2791,6 +2791,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/patrick-hildebrandt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40897,
+		"inputAbbreviatedPath": "\/public\/images\/patrick-hildebrandt.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/patrick-hildebrandt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/sam-borstadt.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2852,28 +2863,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/public\/js\/bootstrap.mix.js",
 		"outputAbbreviatedPath": "\/public\/js\/min\/bootstrap.mix-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/public\/js\/min\/bootstrap-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/js\/min\/bootstrap-min.js",
-		"outputAbbreviatedPath": "\/public\/js\/min\/min\/bootstrap-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/public\/js\/min\/bootstrap.min-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/js\/min\/bootstrap.min-min.js",
-		"outputAbbreviatedPath": "\/public\/js\/min\/min\/bootstrap.min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2979,15 +2968,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/README.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/README.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -3012,7 +2992,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Kenny Glenn",
+"lastSavedByUser": "Patrick Hildebrandt",
 "manualImportLinks": {
 	},
 "projectAttributes": {
