@@ -2747,6 +2747,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/hustle-2017.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15806,
+		"inputAbbreviatedPath": "\/public\/images\/hustle-2017.png",
+		"outputAbbreviatedPath": "\/public\/images\/hustle-2017.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/kenny-glenn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2776,6 +2787,28 @@
 		"initialSize": 11623,
 		"inputAbbreviatedPath": "\/public\/images\/mwux-2016.png",
 		"outputAbbreviatedPath": "\/public\/images\/mwux-2016.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/mwux-2017-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 551808,
+		"inputAbbreviatedPath": "\/public\/images\/mwux-2017-hero.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/mwux-2017-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/mwux-2017.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3374,
+		"inputAbbreviatedPath": "\/public\/images\/mwux-2017.png",
+		"outputAbbreviatedPath": "\/public\/images\/mwux-2017.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
