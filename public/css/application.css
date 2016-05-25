@@ -6559,13 +6559,10 @@ button.close {
 .round {
   border-radius: 50%;
 }
-.panel {
-  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-}
 .panel.panel-primary {
-  background-color: #412945;
+  background-color: rgba(65, 41, 69, 0.7);
   color: #f9f9f9;
+  border: none;
 }
 .panel.panel-primary a {
   color: #FF535F;
@@ -6573,6 +6570,9 @@ button.close {
 p a,
 h5 a {
   color: #C47267;
+}
+.hero-graphic {
+  margin-top: 60px;
 }
 .container {
   overflow-x: hidden;
@@ -6588,6 +6588,7 @@ h5 a {
 }
 .navbar .navbar-brand {
   width: 200px;
+  padding: 5px;
 }
 @media (min-width: 991px) {
   .navbar .navbar-brand {
@@ -6611,8 +6612,9 @@ h5 a {
   padding-right: 12px;
 }
 #intro {
-  background: url('/public/images/hero-cincy.jpg') center center no-repeat;
+  background: url('/public/images/mwux-2017-hero.jpg') center center no-repeat;
   padding-top: 2em;
+  background-size: cover;
 }
 @media (min-width: 991px) {
   #intro {
