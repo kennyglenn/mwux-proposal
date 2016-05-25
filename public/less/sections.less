@@ -1,20 +1,24 @@
 #intro {
-  background: url('/public/images/hero-cincy.jpg') center center no-repeat;
-  padding-top: 2em;
-  @media (min-width: @screen-sm-max) {
-    height: 90vh;
-    max-height: 1000px;
-    padding: 0;
-    .container {
-      position: relative;
-      top: 50%;
-      transform: translateY(-50%);
-    }
+  background: @brand-warning;
+  img {
+    display: block;
+    height: auto;
+    width: 100%;
   }
+  // @media (min-width: @screen-sm-max) {
+  //   height: 90vh;
+  //   max-height: 1000px;
+  //   padding: 0;
+  //   .container {
+  //     position: relative;
+  //     top: 50%;
+  //     transform: translateY(-50%);
+  //   }
+  // }
 }
 
 #process {
-  background-color: @brand-warning;
+  background: @brand-primary url('/public/images/grit-purple.png') top left repeat;
 }
 
 #timeline {
@@ -92,11 +96,4 @@
 
 #around {
   border-top: 16px double @brand-primary;
-}
-
-#contact {
-  background: url('/public/images/contact-cincy.jpg') center center no-repeat;
-  background-size: 100%;
-  height: 550px;
-  padding-top: 100px
 }

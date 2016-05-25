@@ -3,6 +3,7 @@
 }
 
 .panel {
+  border-radius: 0;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   &.panel-primary {
@@ -11,6 +12,9 @@
     a {
       color: @brand-warning;
     }
+  }
+  &.panel-timeline {
+    border-left: 3px solid @brand-warning;
   }
 }
 
@@ -23,12 +27,14 @@ p a, h5 a {
 }
 
 .navbar {
-  background: @white;
-  border-bottom: 5px solid @brand-warning;
+  background: @brand-primary;
   li {
     font-size: .7em;
     text-transform: uppercase;
     font-weight: 700;
+    a {
+      color: @gray-lighter;
+    }
   }
   .navbar-brand  {
     width: 200px;
@@ -51,6 +57,11 @@ p a, h5 a {
 }
 
 .nav > li > a {
-  padding-left: 12px;
-  padding-right: 12px;
+  cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
+  &:hover {
+    background-color: transparent;
+    border-bottom: 3px solid @brand-warning;
+  }
 }
