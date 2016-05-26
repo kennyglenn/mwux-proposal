@@ -2736,6 +2736,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/grit-purple.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2536,
+		"inputAbbreviatedPath": "\/public\/images\/grit-purple.png",
+		"outputAbbreviatedPath": "\/public\/images\/grit-purple.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/hero-cincy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2754,6 +2765,17 @@
 		"initialSize": 15806,
 		"inputAbbreviatedPath": "\/public\/images\/hustle-2017.png",
 		"outputAbbreviatedPath": "\/public\/images\/hustle-2017.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/intro-hero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/public\/images\/intro-hero.png",
+		"outputAbbreviatedPath": "\/public\/images\/intro-hero.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2795,7 +2817,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 551808,
+		"initialSize": 501502,
 		"inputAbbreviatedPath": "\/public\/images\/mwux-2017-hero.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/mwux-2017-hero.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2806,7 +2828,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3374,
+		"initialSize": 4251,
 		"inputAbbreviatedPath": "\/public\/images\/mwux-2017.png",
 		"outputAbbreviatedPath": "\/public\/images\/mwux-2017.png",
 		"outputPathIsOutsideProject": 0,
@@ -2831,6 +2853,17 @@
 		"initialSize": 40897,
 		"inputAbbreviatedPath": "\/public\/images\/patrick-hildebrandt.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/patrick-hildebrandt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/residence.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99725,
+		"inputAbbreviatedPath": "\/public\/images\/residence.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/residence.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
