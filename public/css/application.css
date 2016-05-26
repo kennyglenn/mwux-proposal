@@ -6625,7 +6625,7 @@ h5 a {
   border-bottom: 3px solid #FF535F;
 }
 #intro {
-  background: url('/public/images/mwux-2017-hero.jpg') center center no-repeat;
+  background: url('public/images/mwux-2017-hero.jpg') center center no-repeat;
   padding-top: 2em;
   background-size: cover;
 }
@@ -6642,7 +6642,7 @@ h5 a {
   }
 }
 #process {
-  background: #412945 url('/public/images/grit-purple.png') top left repeat;
+  background: #412945 url('public/images/grit-purple.png') top left repeat;
 }
 #process h1 {
   color: #FF535F;
