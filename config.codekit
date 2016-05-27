@@ -2714,6 +2714,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/cac.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/public\/images\/cac.png",
+		"outputAbbreviatedPath": "\/public\/images\/cac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/contact-cincy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2740,7 +2751,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2536,
+		"initialSize": 23912,
 		"inputAbbreviatedPath": "\/public\/images\/grit-purple.png",
 		"outputAbbreviatedPath": "\/public\/images\/grit-purple.png",
 		"outputPathIsOutsideProject": 0,
@@ -2773,7 +2784,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 1.32395e+06,
 		"inputAbbreviatedPath": "\/public\/images\/intro-hero.png",
 		"outputAbbreviatedPath": "\/public\/images\/intro-hero.png",
 		"outputPathIsOutsideProject": 0,
@@ -2934,6 +2945,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/public\/js\/min\/bootstrap-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/min\/bootstrap-min.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/min\/bootstrap-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/js\/min\/bootstrap.min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/min\/bootstrap.min-min.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/min\/bootstrap.min-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/public\/less\/application.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -3034,6 +3067,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/README.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -3058,7 +3100,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Patrick Hildebrandt",
+"lastSavedByUser": "Kenny Glenn",
 "manualImportLinks": {
 	},
 "projectAttributes": {

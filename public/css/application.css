@@ -6289,6 +6289,9 @@ button.close {
 .text-white {
   color: #fbfbfb;
 }
+.text-primary {
+  color: #412945;
+}
 .m0 {
   margin: 0em !important;
 }
@@ -6575,7 +6578,7 @@ button.close {
 }
 p a,
 h5 a {
-  color: #C47267;
+  color: #DE80B6;
 }
 .hero-graphic {
   margin-top: 100px;
@@ -6705,7 +6708,7 @@ h5 a {
   margin-top: 1.5em;
 }
 #venue {
-  border-top: 16px double #FF535F;
+  border-top: 2px double #FF535F;
 }
 #venue h4 {
   margin-top: 1.5em;
@@ -6714,11 +6717,8 @@ h5 a {
   margin-top: 1em;
 }
 #hotels {
-  border-top: 16px double #412945;
+  border-top: 2px double #412945;
 }
 #budget {
-  border-top: 16px double #FF535F;
-}
-#around {
-  border-top: 16px double #412945;
+  border-top: 2px double #FF535F;
 }
