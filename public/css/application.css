@@ -6634,7 +6634,7 @@ h5 a {
 }
 @media (min-width: 991px) {
   #intro {
-    height: 90vh;
+    height: 100vh;
     max-height: 1000px;
     padding: 0;
   }
@@ -6644,13 +6644,13 @@ h5 a {
     transform: translateY(-50%);
   }
 }
-#process {
+#why {
   background: #412945 url('../images/grit-purple.png') top left repeat;
 }
-#process h1 {
+#why h1 {
   color: #FF535F;
 }
-#process p {
+#why p {
   color: #fff;
 }
 #timeline .row {
