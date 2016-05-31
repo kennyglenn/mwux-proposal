@@ -6292,6 +6292,9 @@ button.close {
 .text-primary {
   color: #412945;
 }
+.text-check {
+  font-family: helvetica, arial, sans-serif;
+}
 .m0 {
   margin: 0em !important;
 }
