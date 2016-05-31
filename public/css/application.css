@@ -6633,6 +6633,11 @@ h5 a {
 .table-section-first.table-section-first td {
   border-top: 2px solid #ddd;
 }
+.map-embed {
+  border: 0;
+  margin: 20px auto;
+  display: block;
+}
 #intro {
   background: url('../images/mwux-2017-hero.jpg') center center no-repeat;
   padding-top: 2em;
